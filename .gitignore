@@ -1,0 +1,6 @@
+build/
+DerivedData/
+AliSDK/
+.DS_Store
+xcuserdata/
+DataBase/

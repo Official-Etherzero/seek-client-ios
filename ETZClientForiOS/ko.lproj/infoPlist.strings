@@ -1,0 +1,10 @@
+/* 
+  infoPlist.strings
+  ETZClientForiOS
+
+  Created by yang on 2019/10/15.
+  Copyright © 2019 yang123. All rights reserved.
+*/
+
+"需要您的同意才可以访问相机" = "카메라에 접근하기를 허용하시겠습니까?";
+"需要您的同意才可以访问手机相册" = "핸드폰 앨범에 접근하기를 허용하시겠습니까?";
